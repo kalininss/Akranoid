@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML Template Test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+d:\ebanutsa\arkanoid\sfml template test\main.cpp(51): warning C4305: '=' : truncation from 'double' to 'float'
+d:\ebanutsa\arkanoid\sfml template test\main.cpp(73): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\ebanutsa\arkanoid\sfml template test\main.cpp(74): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\ebanutsa\arkanoid\sfml template test\main.cpp(163): warning C4244: 'initializing' : conversion from 'const float' to 'int', possible loss of data
+d:\ebanutsa\arkanoid\sfml template test\main.cpp(164): warning C4244: 'initializing' : conversion from 'const float' to 'int', possible loss of data
+d:\ebanutsa\arkanoid\sfml template test\main.cpp(279): warning C4244: 'initializing' : conversion from 'sf::Int64' to 'float', possible loss of data
+d:\ebanutsa\arkanoid\sfml template test\main.cpp(294): warning C4305: '=' : truncation from 'double' to 'float'
+d:\ebanutsa\arkanoid\sfml template test\main.cpp(295): warning C4305: '=' : truncation from 'double' to 'float'
+d:\ebanutsa\arkanoid\sfml template test\main.cpp(311): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  SFML Template Test.vcxproj -> D:\ebanutsa\Arkanoid\Debug\Arkanoid.exe
